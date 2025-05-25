@@ -8,10 +8,6 @@
 
 ## Project Preview
 <img src="Screenshot_20250525_104135.png" alt="Project Screenshot" />
-
-<video controls>
-  <source src="review.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src=""></img>
 
 <div align="center">Made by Bima Adam</div>
