@@ -7,7 +7,7 @@
 # Preview Project
 <img src="Screenshot_20250525_104135.png"></img>
 <video controls>
-<source src="review.mp4" type="video/mp4"></source>
+<source src="review.mp4" type="video/mp4">
 </video>
 
 <div align="center">Made with By Bima Adam</div>
