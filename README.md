@@ -6,6 +6,8 @@
  - WebServerSocket
 # Preview Project
 <img src="Screenshot_20250525_104135.png"></img>
-<video src="review"></video>
+<video controls>
+<source src="preview.mp4" type="video/mp4"></source>
+</video>
 
 <div align="center">Made with By Bima Adam</div>
