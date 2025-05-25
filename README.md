@@ -8,6 +8,6 @@
 
 ## Project Preview
 <img src="Screenshot_20250525_104135.png" alt="Project Screenshot" />
-<img src=""></img>
+<img src="photo_2025-05-25_11-27-45.jpg"></img>
 
 <div align="center">Made by Bima Adam</div>
