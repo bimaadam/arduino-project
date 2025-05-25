@@ -1,13 +1,17 @@
-# Arduino Type Wemos ESP32 D1 R32 
-# Features: 
- - On LED
- - Off LED
- - Blinking LED
- - WebServerSocket
-# Preview Project
-<img src="Screenshot_20250525_104135.png"></img>
+# Arduino Project - Wemos ESP32 D1 R32
+
+## Features:
+- Turn On LED  
+- Turn Off LED  
+- Blinking LED  
+- WebSocket Web Server
+
+## Project Preview
+<img src="Screenshot_20250525_104135.png" alt="Project Screenshot" />
+
 <video controls>
-<source src="review.mp4" type="video/mp4">
+  <source src="review.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
-<div align="center">Made with By Bima Adam</div>
+<div align="center">Made by Bima Adam</div>
